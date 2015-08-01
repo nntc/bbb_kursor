@@ -4,5 +4,7 @@ Java-приложение, рисующее красный квадратик п
 Для запуска приложения в 32-х разрядной Java сделайте:
 
 git clone https://github.com/nntc/bbb_kursor.git
+
 cd bbb_kursor/bin
+
 bash start.sh
